@@ -38,7 +38,7 @@
   <ul>
 
      🔭 I’m currently working on building my portfolio.
-     🌱 I’m currently learning building a CRUD web app using Flask and Python 🐍
+     🌱 I’m currently learning to build a CRUD web app using Flask and Python 🐍
      👯 I’m looking to collaborate on building music apps.
      🤔 I’m looking for help with iOS development.
      💬 Ask me about cloudinary.
