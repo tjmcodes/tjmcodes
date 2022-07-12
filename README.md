@@ -50,19 +50,17 @@
  </div>
 <br>
 
-<h5>GA Projects</h5>
-
-<a href="https://github.com/tjmcodes/Ultimate-Tic-Tac-Toe"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=tjmcodes&repo=Ultimate-Tic-Tac-Toe&theme=vue-dark" /></a><a href="https://github.com/tjmcodes/project-2"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=tjmcodes&repo=project-2&theme=vue-dark" /></a><a href="https://github.com/tjmcodes/project-3-MERN-frontend"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=tjmcodes&repo=project-3-MERN-frontend&theme=vue-dark" /></a><a href="https://github.com/tjmcodes/project-3-MERN-backend"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=tjmcodes&repo=project-3-MERN-backend&theme=vue-dark" /></a>
-</p>  
 
 <div>
-   
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjmcodes&theme=vue-dark)](https://git.io/streak-stats)
+
 <img src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=dracula)](https://github.com/tjmcodes/github-readme-activity-graph">
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=tjmcodes&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity">
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/tjmcodes/github-readme-stats">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjmcodes&theme=vue-dark)](https://git.io/streak-stats)
+
 
 
   ![](https://visitor-badge.glitch.me/badge?page_id=tjmcodes.tjmcodes)
