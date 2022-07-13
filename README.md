@@ -49,8 +49,8 @@
  </div>
 <br>
 
+<div align="center">
 
-<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjmcodes&theme=vue-dark)](https://git.io/streak-stats)
 
