@@ -42,7 +42,6 @@
      👯 I’m looking to collaborate on building music apps.
      🤔 I’m looking for help with iOS development.
      💬 Ask me about cloudinary.
-     📫 How to reach me: tjcodes@gmail.com
      😄 Pronouns: She/her.
      ⚡ Fun fact: Love gaming when I can.. (current game, Far: Lone Sails 🚂)
 
