@@ -122,6 +122,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-2584FF.svg?logo=jira&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-2B2B31.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-F6C904?logo=miro&logoColor=#F6C904"></a>
+    <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjmcodes">
