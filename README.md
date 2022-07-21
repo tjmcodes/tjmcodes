@@ -70,7 +70,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <img src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=dracula)](https://github.com/tjmcodes/github-readme-activity-graph">
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=tjmcodes&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact"
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact">
  
 
 ### 👨‍💻 Programming and markup languages
@@ -124,7 +124,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-F6C904?logo=miro&logoColor=#F6C904"></a>
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjmcodes">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tjmcodes.tjmcodes)
 
