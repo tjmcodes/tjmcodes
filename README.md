@@ -63,13 +63,16 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <div align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjmcodes&theme=vue-dark)](https://git.io/streak-stats)
+<!-- Stats -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=tjmcodes&show_icons&theme=tokyonight">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=dracula)](https://github.com/tjmcodes/github-readme-activity-graph">
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=tjmcodes&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/tjmcodes/github-readme-stats">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact"
  
+
 ### 👨‍💻 Programming and markup languages
 
 <p>
