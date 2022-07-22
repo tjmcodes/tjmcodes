@@ -77,7 +77,6 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 </br>
 
 ### 👨‍💻 Programming and markup languages
-</br>
 
 <p>
     <a href="https://github.com/search?q=user%tjmcodes+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
