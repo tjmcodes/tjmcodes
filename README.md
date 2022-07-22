@@ -94,7 +94,6 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 </br>
 
 ### 🧰 Frameworks and libraries
-</br>
 
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
