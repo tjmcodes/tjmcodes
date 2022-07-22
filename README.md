@@ -143,9 +143,6 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
 </p>
 
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjmcodes">
 
 </br>
 
