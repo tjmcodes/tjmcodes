@@ -145,6 +145,8 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 </p>
 
 
+[![Teresa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tjmcodes)](https://github.com/tjmcodes/tjmcodes)
+
 </br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tjmcodes.tjmcodes)
