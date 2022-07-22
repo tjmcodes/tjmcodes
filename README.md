@@ -61,11 +61,12 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <br>
 
 ---
-<br>
 <div align="center">
 
 
 <!-- Stats -->
+  
+# Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=tjmcodes&show_icons&theme=tokyonight">
 
