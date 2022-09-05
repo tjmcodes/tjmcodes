@@ -75,6 +75,8 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
  
 </br>
 
+# Have experience in using the following tech: 
+
 ### 👨‍💻 Programming and markup languages
 
 <p>
