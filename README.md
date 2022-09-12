@@ -66,13 +66,12 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
   
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjmcodes&show_icons&theme=tokyonight">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=dracula)](https://github.com/tjmcodes/github-readme-activity-graph">
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=tjmcodes&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages&layout=compact">
- 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages">
+<img height="300em" src="https://wakatime.com/share/@tjmcodes/44fbacc0-c769-4f2b-8b8f-a6810a9cb4b8.svg"></img> 
 </br>
 
 # Have experience in using the following tech: 
@@ -143,8 +142,6 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&logoColor=FFFFFF"></a>
 </p>
 
-
-<figure><embed src="https://wakatime.com/share/@tjmcodes/44fbacc0-c769-4f2b-8b8f-a6810a9cb4b8.svg"></embed></figure>
 
 </br>
 
