@@ -50,7 +50,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
   <ul>
 
      🔭 I’m currently working on building my portfolio.
-     🌱 I’m currently learning to build a CRUD web app using PostgreSQL, Flask and Python 🐍
+     🌱 I’m enjoying learning about Unit Testing and TDD
      👯 I’m looking to collaborate on building music apps.
      🤔 I’m looking for help with iOS development.
      😄 Pronouns: She/her.
