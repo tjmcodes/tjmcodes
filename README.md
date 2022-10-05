@@ -96,7 +96,11 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
   <a href="https://github.com/search?q=user%tjmcodes+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="https://github.com/search?q=user%tjmcodes+language%3Atailwindcss"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=TailwindCSS&logoColor=white"></a>
+ 
+</p>
 
+</br>
+  
 ### 🧰 Frameworks and libraries
 
 <p>
