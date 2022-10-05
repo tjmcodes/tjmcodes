@@ -49,8 +49,8 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <div align="center">
   <ul>
 
-     🔭 I’m currently working on building my portfolio.
-     🌱 I’m enjoying learning about Unit Testing and TDD
+     🔭 I’m currently dedicating my time to securing my first role as a software developer.
+     🌱 I’m enjoying learning about Unit Testing and TDD.
      👯 I’m looking to collaborate on building music apps.
      🤔 I’m looking for help with iOS development.
      😄 Pronouns: She/her.
