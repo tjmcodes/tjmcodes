@@ -49,8 +49,8 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <div align="center">
   <ul>
 
-     🔭 I’m currently dedicating my time to securing my first role as a software developer by reviewing data structures and algorithms
-     🌱 I’m enjoying learning about Unit Testing and TDD.
+     🔭 I’m currently reviewing data structures and algorithms.
+     🌱 I’m enjoying learning about C++ fundamentals used in making games. 
      👯 I’m looking to collaborate on building music apps.
      🤔 I’m looking for help with iOS development.
      😄 Pronouns: She/her.
@@ -83,6 +83,8 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     </br>
     <a href="https://github.com/search?q=user%tjmcodes+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%tjmcodes+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    </br>
+    <a href="https://github.com/search?q=user%tjmcodes+language%3C++"><img alt="C++" src="https://img.shields.io/badge/C++-white.svg?logo=c%2B%2B&logoColor=00599C"></a>
     </br>
     <a href="https://github.com/search?q=user%tjmcodes+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> 
     
