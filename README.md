@@ -66,7 +66,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
   
 # Stats
 
-<img height="200em" src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=vue-dark">
+<!-- <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=vue-dark"> -->
 
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages">
