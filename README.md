@@ -26,9 +26,9 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <!-- Social badges section -->
 <p align="center">
   
- <a href="https://tjmcodes.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio-magenta?style=for-the-badge&logo=Blackberry&logoColor=black"></a>
  <a href="https://tm-portfolio-react.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-portfolio-magenta?style=for-the-badge&logo=Blackberry&logoColor=black"></a>
+ <a href="https://github.com/tjmcodes" target="_blank">
     <img src="https://img.shields.io/badge/-github-junglegreen?style=for-the-badge&logo=GitHub&logoColor=black"></a>
 <br>
 
