@@ -69,7 +69,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <!-- <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=tjmcodes&theme=vue-dark"> -->
 
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages">
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjmcodes&theme=vue-dark&custom_title=Languages">
 <img height="300em" src="https://wakatime.com/share/@tjmcodes/44fbacc0-c769-4f2b-8b8f-a6810a9cb4b8.svg"></img> 
 <img height="300em" src="https://wakatime.com/share/@tjmcodes/67afd786-d7bb-4887-b90e-dbb2057e3726.svg"></img> 
 </br>
