@@ -32,7 +32,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
     <img src="https://img.shields.io/badge/-github-junglegreen?style=for-the-badge&logo=GitHub&logoColor=black"></a>
 <br>
 
- <a href="https://www.youtube.com/c/teresamorini?sub_confirmation=1">
+ <a href="https://www.youtube.com/teresamorini">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCZwzVpDT9XioSevj2pCHJgw?color=%23E05D44&label=youtube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"></a>
   <a href="https://github.com/tjmcodes?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/tjmcodes?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
