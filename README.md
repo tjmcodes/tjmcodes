@@ -71,7 +71,7 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 
 
 <img height="300em" src="https://wakatime.com/share/@tjmcodes/0fc3486e-c51a-4b26-a202-8a0ae8e6a8c5.svg"></img> 
-<img height="300em" src="https://wakatime.com/share/@tjmcodes/67afd786-d7bb-4887-b90e-dbb2057e3726.svg"></img> 
+<img height="300em" src="https://wakatime.com/share/@tjmcodes/c29dc1c6-8592-43f7-9ded-75210da4f3f1.svg"></img> 
 </br>
 
 # Have experience in using the following tech: 
