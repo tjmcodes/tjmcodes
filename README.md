@@ -49,12 +49,9 @@ Hi! I'm Teresa Morini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z
 <div align="center">
   <ul>
 
-     🔭 I’m currently reviewing data structures and algorithms.
-     🌱 I’m enjoying learning about C++ fundamentals used in making games. 
-     👯 I’m looking to collaborate on building music apps.
-     🤔 I’m looking for help with iOS development.
-     😄 Pronouns: She/her.
-     ⚡ Fun fact: Love gaming when I can.. (current game, Far: Changing Tides ⛵️)
+     🔭 I’m currently working with databases and lots of Google Sheets
+     🌱 I enjoy learning to solve problems using code to automate repeatable admin tasks    
+     ⚡ Fun fact: Love gaming when I can.. (current game, Avatar 🎮)
 
   </ul>
  </div>
